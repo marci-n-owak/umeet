@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2018 (64-Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="90mm" height="90mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 9000 9000"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str1 {stroke:#F05C41;stroke-width:75;stroke-miterlimit:22.9256}
+    .str0 {stroke:#465E8D;stroke-width:50;stroke-miterlimit:22.9256}
+    .str2 {stroke:#FEFEFE;stroke-width:10;stroke-miterlimit:22.9256}
+    .str4 {stroke:#F05C41;stroke-width:200;stroke-linecap:round;stroke-miterlimit:22.9256}
+    .str3 {stroke:#F05C41;stroke-width:400;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:22.9256}
+    .fil3 {fill:none}
+    .fil2 {fill:#FEFEFE}
+    .fil0 {fill:#465E8D}
+    .fil1 {fill:#F05C41}
+   ]]>
+  </style>
+ </defs>
+ <g id="Warstwa_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="fil0 str0" points="7563.21,2872.27 7563.21,7452.13 1702.9,7452.13 1702.9,2872.27 "/>
+  <path class="fil0" d="M8063.21 2872.27l0 4579.86c0,276.14 -223.86,500 -500,500l-5860.31 0c-276.14,0 -500,-223.86 -500,-500l0 -4579.86c0,-276.14 223.86,-500 500,-500l5860.31 0c276.14,0 500,223.86 500,500zm-500 0l0 4579.86 -5860.31 0 0 -4579.86 5860.31 0z"/>
+  <polygon class="fil1 str1" points="1702.88,1844.08 7563.19,1844.08 7563.19,2450.8 1702.88,2450.8 "/>
+  <path class="fil1" d="M1702.88 1344.08l5860.31 0c276.14,0 500,223.86 500,500l0 606.72c0,276.14 -223.86,500 -500,500l-5860.31 0c-276.14,0 -500,-223.86 -500,-500l0 -606.72c0,-276.14 223.86,-500 500,-500zm0 500l5860.31 0 0 606.72 -5860.31 0 0 -606.72z"/>
+  <rect class="fil2 str2" x="1205.36" y="2450.8" width="6860.3" height="502.86"/>
+  <circle class="fil2" cx="3355.05" cy="1844.08" r="375"/>
+  <circle class="fil2" cx="5975.37" cy="1844.08" r="375"/>
+  <rect class="fil2" x="1703.71" y="3354.9" width="1200" height="1200"/>
+  <rect class="fil2" x="3280.8" y="3354.9" width="1200" height="1200"/>
+  <rect class="fil2" x="4818.16" y="3354.9" width="1200" height="1200"/>
+  <rect class="fil2" x="6364.09" y="3354.9" width="1200" height="1200"/>
+  <rect class="fil2" x="1703.71" y="6254.9" width="1200" height="1200"/>
+  <rect class="fil2" x="3280.8" y="6254.9" width="1200" height="1200"/>
+  <rect class="fil2" x="4818.16" y="6254.9" width="1200" height="1200"/>
+  <rect class="fil2" x="6364.09" y="6254.9" width="1200" height="1200"/>
+  <rect class="fil2" x="1703.71" y="4804.9" width="1200" height="1200"/>
+  <rect class="fil2" x="3280.8" y="4804.9" width="1200" height="1200"/>
+  <rect class="fil2" x="4818.16" y="4804.9" width="1200" height="1200"/>
+  <rect class="fil2" x="6364.09" y="4804.9" width="1200" height="1200"/>
+  <line class="fil3 str3" x1="3355.05" y1="1844.08" x2="3355.05" y2= "718.5" />
+  <line class="fil3 str3" x1="5975.37" y1="1844.08" x2="5975.37" y2= "718.5" />
+  <path class="fil3 str4" d="M6488.56 3564.96c110.81,153.86 339.68,895.57 400.25,817.45 83.05,-107.12 876.27,-1039.14 1069.32,-1186.76"/>
+  <path class="fil3 str4" d="M4956 6473.18c110.81,153.86 339.68,895.57 400.25,817.45 83.05,-107.12 876.27,-1039.14 1069.32,-1186.76"/>
+  <path class="fil3 str4" d="M1838 5002.11c110.81,153.86 339.68,895.57 400.25,817.45 83.05,-107.12 876.27,-1039.14 1069.32,-1186.76"/>
+ </g>
+</svg>

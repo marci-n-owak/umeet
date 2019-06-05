@@ -1,0 +1,77 @@
+.slideInRight{
+  position: relative;
+  animation: slideInRight 0.4s;
+  -webkit-animation: slideInRight 0.5s forwards;
+}
+@keyframes slideInRight{
+  from{
+    right: -300px;
+    opacity: 0;
+  } 
+  to{
+    right: 0;
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideInRight{
+  from{
+    right: -300px;
+    opacity: 0;
+  } 
+  to{
+    right: 0;
+    opacity: 1;
+  }
+}
+
+.slideInLeft{
+  position: relative;
+  animation: slideInLeft 0.5s forwards;
+  -webkit-animation: slideInLeft 0.5s forwards;
+}
+@keyframes slideInLeft{
+  from{
+    left: -300px;
+    opacity: 0;
+  } 
+  to{
+    left: 0;
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideInLeft{
+  from{
+    left: -300px;
+    opacity: 0;
+  } 
+  to{
+    left: 0;
+    opacity: 1;
+  }
+}
+
+.slideInBottom{
+  position: relative;
+  animation: slideInBottom 0.4s forwards;
+  -webkit-animation: slideInBottom 0.4s forwards;
+}
+@keyframes slideInBottom{
+  from{
+    bottom: -300px;
+    opacity: 0;
+  }
+  to{
+    bottom: 0;
+    opacity: 1;
+  }
+}
+@-webkit-keyframes slideInBottom{
+  from{
+    bottom: -300px;
+    opacity: 0;
+  }
+  to{
+   bottom: 0;
+   opacity: 1;
+  }
+}
